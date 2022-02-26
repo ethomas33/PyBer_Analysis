@@ -9,7 +9,7 @@ This chart illustrates the different revenue sectors for the company. As expecte
 
 We can dive a little deeper into this dataset. The below chart 
 
-![GeneralSummaryChart](https://github.com/ethomas33/PyBer_Analysis/blob/c37387ceecaf7b4592ae994e61384c191d22814e/Analysis/SummaryChart.png)
+![GeneralSummaryChart](https://github.com/ethomas33/PyBer_Analysis/blob/5f94cfd82628fa7bf4caaf018198322c6d613aa7/Analysis/SummaryChart.png)
 
 
 There is a description of the differences in ride-sharing data among the different city types. Ride-sharing data include the total rides, total drivers, total fares, average fare per ride and driver, and total fare by city type. (7 pt)
